@@ -13,6 +13,13 @@ namespace Shapes.Models
       Width = sideWidth;
     }
 
+    public void SetLength(int length)
+    {
+      if (length > 0)
+      {
+        Length = length;
+      }
+    }
     public int GetArea()
     {
       return Length * Width;
