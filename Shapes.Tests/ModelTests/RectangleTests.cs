@@ -1,10 +1,10 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Project.Models;
+using Shapes.Models;
 
-namespace Project.Tests
+namespace Shapes.Tests
 {
   [TestClass]
-  public class ClassNameTests
+  public class RectangleTests
   {
 
   }

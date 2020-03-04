@@ -1,6 +1,6 @@
 using System;
 
-namespace Project
+namespace Shapes
 {
   public class Program
   {
